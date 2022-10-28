@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.glitch.me/badge?crazycollin=crazycollin&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=crazycollin.crazycollin&left_color=green&right_color=red)
