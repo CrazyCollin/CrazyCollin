@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=crazycollin.crazycollin&left_color=green&right_color=red)
