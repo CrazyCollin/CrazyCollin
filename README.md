@@ -41,6 +41,3 @@ Linux                    3 hrs 58 mins       ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=crazycollin.crazycollin&left_color=green&right_color=red)
