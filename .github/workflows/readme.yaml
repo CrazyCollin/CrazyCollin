@@ -22,3 +22,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
           SHOW_UPDATED_DATE: "False"
+          SHOW_OS: "False"
+          SHOW_EDITORS: "False"
