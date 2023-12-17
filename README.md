@@ -18,18 +18,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C722%20hrs%2026%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 54.7 kB Used in GitHub's Storage 
- > 
-> 🏆 124 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 73 Public Repositories 
- > 
-> 🔑 11 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -43,10 +31,6 @@ x86 Plan9 Assembly       0 secs              ░░░░░░░░░░░�
 💻 Operating System: 
 Mac                      53 hrs 33 mins      █████████████████████████   100.00 % 
 ```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/CrazyCollin/CrazyCollin/master/assets/bar_graph.png)
 
 
 <!--END_SECTION:waka-->
