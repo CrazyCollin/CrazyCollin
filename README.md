@@ -18,19 +18,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C722%20hrs%2026%20mins-blue)
 
-📅 **I'm Most Productive on Thursday** 
+**🐱 My GitHub Data** 
 
-```text
-Monday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Tuesday                  32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Wednesday                40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Thursday                 66 commits          ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
-Friday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Sunday                   42 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-```
-
-
+> 📦 54.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 124 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 73 Public Repositories 
+ > 
+> 🔑 11 Private Repositories 
+ > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -44,6 +43,10 @@ x86 Plan9 Assembly       0 secs              ░░░░░░░░░░░�
 💻 Operating System: 
 Mac                      53 hrs 33 mins      █████████████████████████   100.00 % 
 ```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/CrazyCollin/CrazyCollin/master/assets/bar_graph.png)
 
 
 <!--END_SECTION:waka-->
