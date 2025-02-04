@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 12 mins       █████████████████████████   99.99 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
