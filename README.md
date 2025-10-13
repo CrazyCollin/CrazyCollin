@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C532%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C532%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       15 hrs 12 mins      ███████████████████████░░   91.83 % 
+Go                       15 hrs 12 mins      ███████████████████████░░   91.82 % 
 JSON5                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 JSON-lines               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
