@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.15 % 
-SQL                      1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   41.91 % 
+Go                       1 hr 29 mins        ████████████░░░░░░░░░░░░░   46.18 % 
+SQL                      1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   41.89 % 
 TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
 Mac                      3 hrs 13 mins       █████████████████████████   100.00 % 
