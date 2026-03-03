@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ```text
 💬 Programming Languages: 
 Go                       1 hr 30 mins        ███████████░░░░░░░░░░░░░░   45.57 % 
-SQL                      1 hr 24 mins        ███████████░░░░░░░░░░░░░░   42.75 % 
+SQL                      1 hr 24 mins        ███████████░░░░░░░░░░░░░░   42.76 % 
 TOML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
