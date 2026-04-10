@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C221%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C222%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 4 mins        █████████████░░░░░░░░░░░░   50.03 % 
-Go                       3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
-SQL                      1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    9 hrs 59 mins       █████████████████░░░░░░░░   69.78 % 
+Go                       2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+SQL                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 💻 Operating System: 
-Mac                      12 hrs 8 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 
