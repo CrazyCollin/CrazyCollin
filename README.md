@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Go                       10 hrs 53 mins      ████████████████░░░░░░░░░   63.20 % 
-YAML                     3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-SSH Config               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-SQL                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Go                       9 hrs 35 mins       ████████████████░░░░░░░░░   65.10 % 
+YAML                     2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Other                    50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+SSH Config               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 💻 Operating System: 
-Mac                      17 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 
