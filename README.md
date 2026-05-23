@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Go                       11 hrs 44 mins      █████████████░░░░░░░░░░░░   52.27 % 
-Other                    3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-SQL                      2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-YAML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Go                       8 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.51 % 
+Other                    3 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+SQL                      2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+YAML                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 💻 Operating System: 
-Mac                      22 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
