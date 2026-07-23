@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Go                       22 hrs 57 mins      █████████████████░░░░░░░░   68.96 % 
-Markdown                 5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-TypeScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Go                       19 hrs 33 mins      ████████████████░░░░░░░░░   65.21 % 
+Markdown                 5 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Other                    3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+YAML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Mac                      33 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs              █████████████████████████   100.00 % 
 ```
 
 
