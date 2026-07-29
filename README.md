@@ -24,38 +24,37 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Go                       7 hrs 1 min         ████████████░░░░░░░░░░░░░   47.87 % 
-Markdown                 5 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.02 % 
-Other                    1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-TypeScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Markdown                 3 hrs 12 mins       █████████████░░░░░░░░░░░░   51.67 % 
+Other                    1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Go                       1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+JSON5                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-Mac                      14 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 55 mins (94.8%)
+⏱ AI Coding Time: 5 hrs 59 mins (96.36%)
 
-✍️ 5,227 lines written by AI, 250 lines written by hand (95.44% AI-written)
+✍️ 636 lines written by AI, 68 lines written by hand (90.34% AI-written)
 
-🔤 155,045,233 Input Tokens, 909,422 Output Tokens
+🔤 54,926,674 Input Tokens, 304,799 Output Tokens
 
-💵 $790.33 Estimated AI Cost This Week
+💵 $371.81 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 221 AI Prompts
+🧠 9 AI Sessions, 61 AI Prompts
 
-GPT                      5,491 lines         █████████████████████████   99.35 % 
-Cursor                   36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+GPT                      680 lines           █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.44% of written lines came from AI
-📝 Concise Prompter — average 249 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 5.84% of changed lines were hand-edited
+🤖 AI-Driven — 90.34% of written lines came from AI
+📝 Concise Prompter — average 117 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 11.34% of changed lines were hand-edited
 ```
 
 
