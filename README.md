@@ -24,33 +24,33 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 54 mins        ██████████████████░░░░░░░   70.94 % 
-Markdown                 47 mins             ███████░░░░░░░░░░░░░░░░░░   29.06 % 
+Other                    1 hr 53 mins        ██████████████████░░░░░░░   70.74 % 
+Markdown                 47 mins             ███████░░░░░░░░░░░░░░░░░░   29.26 % 
 
 💻 Operating System: 
-Mac                      2 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 42 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 40 mins (100.0%)
 
 ✍️ 835 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 36,137,796 Input Tokens, 320,164 Output Tokens
+🔤 35,570,655 Input Tokens, 318,182 Output Tokens
 
-💵 $103.82 Estimated AI Cost This Week
+💵 $100.92 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 41 AI Prompts
+🧠 7 AI Sessions, 39 AI Prompts
 
 GPT                      835 lines           █████████████████████████   100.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 299 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 313 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
