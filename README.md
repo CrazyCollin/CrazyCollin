@@ -24,33 +24,33 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 4 mins         █████████████░░░░░░░░░░░░   51.29 % 
-TOML                     48 mins             ██████████░░░░░░░░░░░░░░░   38.38 % 
-Go                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Markdown                 1 hr 4 mins         █████████████░░░░░░░░░░░░   51.64 % 
+TOML                     48 mins             ██████████░░░░░░░░░░░░░░░   38.64 % 
+Go                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Mac                      2 hrs 5 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (90.9%)
+⏱ AI Coding Time: 1 hr 53 mins (90.84%)
 
 ✍️ 354 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 28,613,698 Input Tokens, 141,878 Output Tokens
+🔤 28,394,844 Input Tokens, 139,776 Output Tokens
 
-💵 $111.67 Estimated AI Cost This Week
+💵 $110.51 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 40 AI Prompts
+🧠 9 AI Sessions, 38 AI Prompts
 
 GPT                      354 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 699 characters per prompt
+📄 Detailed Prompter — average 735 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
