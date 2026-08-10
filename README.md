@@ -24,19 +24,18 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 4 mins         █████████████░░░░░░░░░░░░   51.64 % 
-TOML                     48 mins             ██████████░░░░░░░░░░░░░░░   38.64 % 
-Go                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Markdown                 1 hr 4 mins         ██████████████░░░░░░░░░░░   56.85 % 
+TOML                     48 mins             ███████████░░░░░░░░░░░░░░   42.54 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 53 mins (90.84%)
+⏱ AI Coding Time: 1 hr 53 mins (100.0%)
 
 ✍️ 354 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
